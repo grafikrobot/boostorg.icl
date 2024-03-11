@@ -11,7 +11,7 @@ project
       <library>/boost/test//boost_unit_test_framework
       <library>/boost/chrono//boost_chrono
       <link>static
-      <include>../../..
+      <include>.
     ;
 
 test-suite "itl"
